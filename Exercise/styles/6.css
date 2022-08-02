@@ -1,0 +1,16 @@
+p{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: Montserrat;
+}
+.head{
+    font-weight: bold;
+    font-size: 40px;
+}
+.para{
+    font-size: 20px;
+}
+.touch{
+    text-decoration: underline;
+}
